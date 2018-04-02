@@ -10,3 +10,14 @@
 .contact:hover {
   text-decoration: underline;
 }
+
+body {
+  background-color: #522F5B;
+  color: #F5E758;
+  font-family: helvetica;
+}
+
+.container h1 {
+  text-align: center;
+  margin: 5%;
+}
