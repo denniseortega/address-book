@@ -12,12 +12,14 @@
 }
 
 body {
-  background-color: #522F5B;
-  color: #F5E758;
-  font-family: helvetica;
+  background-color: #F7A072;
+  color: #005F7F;
+  font-family: serif;
 }
 
 .container h1 {
   text-align: center;
   margin: 5%;
+  font-size: 40pt;
+  letter-spacing: 5pt;
 }
